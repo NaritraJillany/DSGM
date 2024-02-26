@@ -1,20 +1,31 @@
-# DSGM
+# Naritra Gusha Jilllany
 
-Data Science for Global Manager
 
-# Introduction
+# Education
+Tunghai University | Bachelor's Degree in Hospitality Management
+Tunghai University | Master's Degree in Global Master Bussiness Adminiatration (Expected February 2025)
 
-This course introduces the _programming language_ concept and includes hands-on __Python__ practice. However, the concept is not limited to Python. Therefore, students can learn other programming languages quickly once they complete this course. The course starts with an introduction to the programming environment. Then, we cover variables, data types, and conditional statements as core elements. In addition, advanced concepts like object-oriented programming and classes, as well as debugging will be covered.
+## Experience
+**Internship at Chao Kang Cheng Gourmet Plaza Taichung** 
+(June 2020-September 2020)   
+Food and Beverage Employee| Taichung, Taiwan
+- Build and Assisted in setting up a ballroom for an event
+- Maintain cordial relationships with alll work employees
+- Monitored items ensuring that everything is in the right places
 
-# Assessment Items
+**Tunghai University Soapitality Management Departement**
+(September 2019-October 2019)     
+Public Relation Division | Tunghai University |Taichung, Taiwan
+- Publicized information to every student in my year
+- Maintained a good relationship with all of the students
 
-1. Understand the basic concept of computer programming
-2. Understand the computer programming environment
-3. Practice the concepts with Python programming language
-4. Develop a collaborative attitude by conducting group projects
-5. Develop practical skills applicable to junior-level data science work
+# Skills
 
-# Textbook
+- Fluent in English and Bahasa Indonesia, intermediate ability in Chinese
+- Highly Organized
+- Leadership
+- Adaptability
+- Attention to detail
+- Power Point | Excel | Word | Teams | Canva
 
-Downey, A. (2014). [Think Python. How to Think Like a Computer Scientist](https://pythonbooks.org/think-python-how-to-think-like-a-computer-scientist). Needham, Massachusetts: Green Tea Press. (Free PDF from the author: https://pythonbooks.org/think-python-how-to-think-like-a-computer-scientist/)
 
